@@ -1,0 +1,19 @@
+﻿"Phrases"
+{
+	"HA_Off"
+	{
+		"en"			"Heavy Armor [off]"
+		"ru"			"Тяжелая Броня [выкл]"
+	}
+	"HA_On"
+	{
+		"en"			"Heavy Armor [on]"
+		"ru"			"Тяжелая Броня [вкл]"
+	}
+	"HA_RankClosed"
+	{
+		"#format"		"{1:i}"
+		"en"			"Heavy Armor [{1} rank]"
+		"ru"			"Тяжелая Броня [{1} ранг]"
+	}
+}
